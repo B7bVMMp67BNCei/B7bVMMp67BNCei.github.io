@@ -40,3 +40,5 @@ Here are the links:
 
 [Element](https://b7bvmmp67bncei.github.io/element/production)  
 [Cinny](https://b7bvmmp67bncei.github.io/cinny/production)  
+
+If you want to join the school group chat, contact [https://matrix.to/#/@theunblockerguy:matrix.org](me) on Matrix after signing up.
