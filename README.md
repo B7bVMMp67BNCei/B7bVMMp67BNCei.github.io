@@ -38,5 +38,5 @@ However, for Cinny you will need to do the following:
 
 Here are the links:
 
-[Element Mirror](https://b7bvmmp67bncei.github.io/element/production)
-[Cinny Mirror](https://b7bvmmp67bncei.github.io/cinny/production)
+[Element](https://b7bvmmp67bncei.github.io/element/production)  
+[Cinny](https://b7bvmmp67bncei.github.io/cinny/production)  
